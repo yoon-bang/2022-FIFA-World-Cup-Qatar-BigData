@@ -1,7 +1,7 @@
 # 2022-FIFA-World-Cup-Qatar-BigData
 Forked from https://github.com/2022-FIFA-World-Cup-Qatar-BigData
 <br/>최종 버전 : model_final
-<br/>최종 코드 : model_final/model_final.ipynb
+<br/>최종 코드 및 결과 : model_final/model_final.pdf
 <br/>최종 코드가 사용하는 데이터셋 :  model_final/input_test_with_14_features.csv
 
 ![슬라이드1](https://user-images.githubusercontent.com/55645090/232449752-2340cc4e-5d65-4332-a67b-24a27d01bec0.JPG)
