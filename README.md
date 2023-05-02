@@ -1,6 +1,6 @@
 # 2022-FIFA-World-Cup-Qatar-BigData
 Forked from https://github.com/2022-FIFA-World-Cup-Qatar-BigData
-<br/>최종 버전 폴더: model_final
+<br/> >최종 버전 폴더: model_final
 <br/>최종 코드 및 결과 : model_final/model_final.pdf
 <br/>최종 코드가 사용하는 데이터셋 :
 <br/>    1.fifa_dataset_with_all_features-no_null_values.csv(fifa_dataset_with_all_features-no_null_values.csv는 수정 중)
