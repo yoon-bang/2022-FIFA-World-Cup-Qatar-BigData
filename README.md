@@ -5,7 +5,7 @@ Forked from https://github.com/2022-FIFA-World-Cup-Qatar-BigData
 <br/>[model_final](https://github.com/yoon-bang/2022-FIFA-World-Cup-Qatar-BigData/tree/main/model_final)
 <br/>
 <br/> **최종 코드 및 결과 :**
-<br/>[model_final/model2022_final.ipynb](https://github.com/yoon-bang/2022-FIFA-World-Cup-Qatar-BigData/blob/main/model_final/model2022_final.ipynb), //model_final/model_final.pdf
+<br/>[model_final/model2022_final.ipynb](https://github.com/yoon-bang/2022-FIFA-World-Cup-Qatar-BigData/blob/main/model_final/model2022_final.ipynb) <!-<!--model_final/model_final.pdf-->
 <br/>
 <br/> **최종 코드가 사용하는 데이터셋 :**
 <br/>1.fifa_dataset_with_all_features-no_null_values.csv : 트레이닝용 데이터셋
