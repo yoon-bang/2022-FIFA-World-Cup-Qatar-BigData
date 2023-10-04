@@ -10,10 +10,10 @@ Forked from https://github.com/2022-FIFA-World-Cup-Qatar-BigData
 <br/> **최종 코드가 사용하는 데이터셋 :**
 <br/>1.[model_final/fifa_dataset_with_all_features-no_null_values.csv](https://github.com/yoon-bang/2022-FIFA-World-Cup-Qatar-BigData/blob/main/model_final/fifa_dataset_with_all_features-no_null_values.csv) : 트레이닝용 데이터셋
 <br/>2.[model_final/input_test_with_14_features.csv](https://github.com/yoon-bang/2022-FIFA-World-Cup-Qatar-BigData/blob/main/model_final/input_test_with_14_features.csv) : 테스트용 데이터셋
-<br/>3.model_final/qualifying_label.csv 
+<br/>3.[model_final/qualifying_label.csv](https://github.com/yoon-bang/2022-FIFA-World-Cup-Qatar-BigData/blob/main/model_final/qualifying_label.csv) 
 <br/>
 <br/> **보고서 :** 
-<br/>model_final/보고서.pdf
+<br/>[model_final/보고서.pdf](https://github.com/yoon-bang/2022-FIFA-World-Cup-Qatar-BigData/blob/main/model_final/%EB%B3%B4%EA%B3%A0%EC%84%9C.pdf)
 
 <br/><br/>
 ![슬라이드1](https://user-images.githubusercontent.com/55645090/232449752-2340cc4e-5d65-4332-a67b-24a27d01bec0.JPG)
